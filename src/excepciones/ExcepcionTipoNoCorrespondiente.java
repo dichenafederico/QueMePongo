@@ -1,5 +1,6 @@
+package excepciones;
 
-public class ExcepcionTipoNoCorrespondiente extends ExcepcionCargaPrenda { 
+public class ExcepcionTipoNoCorrespondiente extends ExcepcionCargaPrenda {
 	/**
 	 * 
 	 */

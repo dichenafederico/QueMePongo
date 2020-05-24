@@ -1,6 +1,8 @@
+package prenda;
+
 import java.util.ArrayList;
 
-public class CategoriaPrenda {
+public enum CategoriaPrenda {
 	
 	ArrayList<TipoPrenda> tiposPrendas = new ArrayList<TipoPrenda>();
 	

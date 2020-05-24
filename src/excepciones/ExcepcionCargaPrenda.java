@@ -1,3 +1,4 @@
+package excepciones;
 
 public class ExcepcionCargaPrenda extends Exception{
 	/**
